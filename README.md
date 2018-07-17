@@ -6,7 +6,7 @@ This project is a take on the traditional rock paper scissors game, details of w
 I started out with the very informative courses at [The Odin Project](https://www.theodinproject.com/courses/web-development-101) and have begun with **Web Development 101**. This part was one of the many sub-projects I shall be taking on in the **Javascript Basics** portion. The entire exercise is proving to be a very good learning experience.
 
 ## Screenshots
-!(img src="assets/images/screenshots/main.PNG" width="500px")
+!(assets/images/screenshots/main.PNG width="500px")
 <img src="assets/images/screenshots/main-2.PNG" width="500px">
 <img src="assets/images/screenshots/results.PNG" width="500px">
 
