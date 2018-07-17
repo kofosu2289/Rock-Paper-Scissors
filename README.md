@@ -7,8 +7,8 @@ I started out with the very informative courses at [The Odin Project](https://ww
 
 ## Screenshots
 ![main](https://user-images.githubusercontent.com/18624999/42799151-afa57990-8964-11e8-9a05-962071d165d0.png)
-<img src="assets/images/screenshots/main-2.PNG" width="500px">
-<img src="assets/images/screenshots/results.PNG" width="500px">
+![main-2](https://user-images.githubusercontent.com/18624999/42799190-d7e32d9e-8964-11e8-9942-dec5809b2696.png)
+![results](https://user-images.githubusercontent.com/18624999/42799197-dee7a2f0-8964-11e8-8139-3a1c013048b5.png)
 
 ## Tech/Framewroks Used
 Nothing fancy just same old HTML5, CSS3 and Javascript
